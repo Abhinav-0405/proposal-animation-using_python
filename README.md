@@ -1,4 +1,4 @@
-# Proposal Animation**
+# Proposal Animation
 
 ## **Overview**
 This Python script utilizes the Turtle graphics library to create a simple animated drawing that represents the phrase "I Love U" along with stick figures for a male and female character. The animation is interactive and will display until the user clicks to exit.
@@ -45,5 +45,4 @@ This Python script utilizes the Turtle graphics library to create a simple anima
 ## **License**
 This project is open-source and available for personal use. Feel free to modify and distribute as needed.
 
-## **Contact**
-For any questions or issues, please contact the author at [your_email@example.com].
+
